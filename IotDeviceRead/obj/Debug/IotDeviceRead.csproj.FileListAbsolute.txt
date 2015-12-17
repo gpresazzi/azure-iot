@@ -1,0 +1,10 @@
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\IotDeviceRead.exe.config
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\IotDeviceRead.exe
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\IotDeviceRead.pdb
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\Microsoft.ServiceBus.dll
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\Microsoft.ServiceBus.xml
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\obj\Debug\IotDeviceRead.csprojResolveAssemblyReference.cache
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\obj\Debug\IotDeviceRead.exe
+D:\Documenti\_G_Progetti\Azure\IotubExample\IotDeviceRead\obj\Debug\IotDeviceRead.pdb

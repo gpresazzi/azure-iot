@@ -1,0 +1,12 @@
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\obj\Debug\SimulatedDevice.csprojResolveAssemblyReference.cache
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\SimulatedDevice.exe.config
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\SimulatedDevice.exe
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\SimulatedDevice.pdb
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Newtonsoft.Json.dll
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Microsoft.Azure.Amqp.pdb
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\bin\Debug\Newtonsoft.Json.xml
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\obj\Debug\SimulatedDevice.exe
+D:\Documenti\_G_Progetti\Azure\IotubExample\SimulatedDevice\obj\Debug\SimulatedDevice.pdb
